@@ -1,0 +1,32 @@
+body{
+    background-color: springgreen(0, 255, 42, 0.533);
+    color: aliceblue;
+    font-family: "bokor", system-ui;
+}
+
+.chamada{
+    background-color: gold(201, 189, 22);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.chamada-texto {
+    margin-right: 10%;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+}
+header{
+    font-size: 30px;
+    padding-left: 20px;
+}
+img{
+    height: 200px;
+}
